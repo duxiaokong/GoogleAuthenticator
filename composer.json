@@ -1,0 +1,28 @@
+{
+    "name": "duxiaokong/easy-google-auth",
+    "description": "Google Authenticator",
+    "keywords": [
+        "Google Authenticator"
+    ],
+    "license": "BSD-2.0",
+    "type": "library",
+    "homepage": "https://github.com/duxiaokong/easy-google-auth",
+    "authors": [
+        {
+            "name": "duxiaokong",
+            "email": "1024114660@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "suggest": {
+    },
+    "autoload": {
+        "psr-4": {
+            "EasyGoogleAuth\\": "src/"
+        },
+        "files": [
+        ]
+    }
+}
