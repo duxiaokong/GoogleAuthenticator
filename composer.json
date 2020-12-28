@@ -4,7 +4,7 @@
     "keywords": [
         "Google Authenticator"
     ],
-    "license": "BSD-2.0",
+    "license": "BSD-4-Clause",
     "type": "library",
     "homepage": "https://github.com/duxiaokong/easy-google-auth",
     "authors": [
